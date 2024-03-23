@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432801242421",
+    "project_id": "testingfirebaseproj-8e2ff",
+    "storage_bucket": "testingfirebaseproj-8e2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432801242421:android:d29c65340523679e86407c",
+        "android_client_info": {
+          "package_name": "com.example.car_wash_light"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBfDCucops_wllUezkrcla4ktlnwEmZRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
